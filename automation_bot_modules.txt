@@ -1,0 +1,4 @@
+Python modules used in automation_bot.py:
+- re
+- subprocess
+- sys
