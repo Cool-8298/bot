@@ -25,7 +25,7 @@ def detect_inputs(script_path):
     return input_types
 
 # === Run one or more Python files and automatically respond to input() prompts ===
-def run_python_files(file_paths, user_link="https://example.com"):
+def run_python_files(file_paths, user_link="https://github.com/cool-8298"):
     """
     Executes each script and sends 'y' or a URL to input() based on detection.
     """
